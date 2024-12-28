@@ -703,7 +703,7 @@ rule C_STATIC_LIBRARY_LINKER__kernel_
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = C:\ncs\toolchains\ce3b5ff664\opt\bin\cmake.exe --regenerate-during-build -SC:\nrfDriver\nrfDriver -BC:\nrfDriver\nrfDriver\build
+  command = C:\ncs\toolchains\ce3b5ff664\opt\bin\cmake.exe --regenerate-during-build -SC:\nrfDrivers\nrfDriver -BC:\nrfDrivers\nrfDriver\build
   description = Re-running CMake...
   generator = 1
 

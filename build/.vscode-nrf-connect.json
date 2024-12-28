@@ -13,7 +13,7 @@
   "confFiles": [
     "prj.conf"
   ],
-  "buildDirectory": "build",
+  "buildDirectory": "..\\..\\nrfDrivers\\nrfDriver\\build",
   "kconfigFragments": [],
   "snippets": [],
   "dtcOverlays": [],

@@ -39,36 +39,36 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/nrfDriver/nrfDriver/build/modules/nrf/subsys/bluetooth/cmake_install.cmake")
+  include("C:/nrfDrivers/nrfDriver/build/modules/nrf/subsys/bluetooth/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/nrfDriver/nrfDriver/build/modules/nrf/subsys/net/cmake_install.cmake")
+  include("C:/nrfDrivers/nrfDriver/build/modules/nrf/subsys/net/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/nrfDriver/nrfDriver/build/modules/nrf/subsys/dfu/cmake_install.cmake")
+  include("C:/nrfDrivers/nrfDriver/build/modules/nrf/subsys/dfu/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/nrfDriver/nrfDriver/build/modules/nrf/subsys/mpsl/cmake_install.cmake")
+  include("C:/nrfDrivers/nrfDriver/build/modules/nrf/subsys/mpsl/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/nrfDriver/nrfDriver/build/modules/nrf/subsys/shell/cmake_install.cmake")
+  include("C:/nrfDrivers/nrfDriver/build/modules/nrf/subsys/shell/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/nrfDriver/nrfDriver/build/modules/nrf/subsys/debug/cmake_install.cmake")
+  include("C:/nrfDrivers/nrfDriver/build/modules/nrf/subsys/debug/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/nrfDriver/nrfDriver/build/modules/nrf/subsys/suit/cmake_install.cmake")
+  include("C:/nrfDrivers/nrfDriver/build/modules/nrf/subsys/suit/cmake_install.cmake")
 endif()
 
