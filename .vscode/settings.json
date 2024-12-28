@@ -4,6 +4,7 @@
     ],
     "files.associations": {
         "bluetooth.h": "c",
-        "nus.h": "c"
+        "nus.h": "c",
+        "coredump.h": "c"
     }
 }
